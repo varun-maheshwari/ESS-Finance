@@ -10,7 +10,7 @@ bs_curr   number;
 inr_to_t  number(26,6);
 op        varchar2(1);
 
-
+--vm test
 freezed_flg number;
 var_region varchar(50);
 
