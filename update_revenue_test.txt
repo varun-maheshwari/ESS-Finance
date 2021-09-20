@@ -12,6 +12,7 @@ op        varchar2(1);
 
 --vm test
 --added
+--added 3rd
 freezed_flg number;
 var_region varchar(50);
 
