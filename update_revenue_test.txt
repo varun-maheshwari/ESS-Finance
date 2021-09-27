@@ -13,6 +13,7 @@ op        varchar2(1);
 --vm test
 --added
 --added 3rd
+-- added 4th for Push testing
 freezed_flg number;
 var_region varchar(50);
 
