@@ -14,6 +14,7 @@ op        varchar2(1);
 --added
 --added 3rd
 -- added 4th for Push testing
+-- added 5th for Push Testing through GitHub Desktop
 freezed_flg number;
 var_region varchar(50);
 
