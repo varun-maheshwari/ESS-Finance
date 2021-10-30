@@ -15,6 +15,7 @@ op        varchar2(1);
 --added 3rd
 -- added 4th for Push testing
 -- added 5th for Push Testing through GitHub Desktop
+-- added on 30-Oct-21 for new branch 11001100 by VM
 freezed_flg number;
 var_region varchar(50);
 
